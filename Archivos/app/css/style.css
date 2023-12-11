@@ -1,0 +1,32 @@
+/* Agrega estos estilos en tu archivo style.css */
+
+/* Estilo para las tarjetas */
+.card {
+    border-radius: 15px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Estilo para el texto dentro de las tarjetas */
+  .card-title,
+  .card-text {
+    color: #ffffff;
+  }
+  
+  /* Estilos para el fondo y la fuente */
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0; /* Color de fondo */
+    color: #333333; /* Color del texto */
+  }
+  
+  /* Estilo para el texto de carga */
+  #loading {
+    font-size: 24px;
+  }
+  
+  /* Otros estilos según tu preferencia */
+  
